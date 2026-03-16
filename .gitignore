@@ -1,0 +1,19 @@
+# 🔒 SECRET — bu faylni hech qachon GitHub'ga chiqarmang!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (ixtiyoriy — agar DB ni GitHub'ga chiqarmoqchi bo'lmasangiz)
+*.db
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS fayllar
+.DS_Store
+Thumbs.db
